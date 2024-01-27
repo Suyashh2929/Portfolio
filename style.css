@@ -41,19 +41,19 @@ html {
 
 .hh
 {
-    background-image: url("/x.jpg");
+    background-image: url("x.jpg");
     /* background-size: auto; */
     background-size: cover;
 }
 .kk
 {
-    background-image: url("/y.jpg");
+    background-image: url("y.jpg");
     /* background-size: auto; */
     background-size: cover;
 }
 .ll
 {
-    background-image: url("/z.jpg");
+    background-image: url("z.jpg");
     /* background-size: auto; */
     background-size: cover;
     /* color: #000; */
